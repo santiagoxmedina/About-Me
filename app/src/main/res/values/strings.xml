@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Santiago Medina</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio_text">My name is Santiago Medina,\n\n
+        \nI began programming when I was 16 years old and did a small application using HTML and flash.
+        \n\nwhen i was in fourth semester in my University (Universidad Pontificia Bolivariana) I began working to get some money and after that i started working in a company called Parsoniisolutions (http://www.parsoniisolutions.com/) where I did web pages and mobile applications for 3 years.
+        \n\n During this period I learned software patterns such as observer, factory, singleton and many others. This made me realize that I have a long way to travel and confirmed my dream, becoming a game developer.
+\nI made a bank application called Bancolombia app (https://play.google.com/store/apps/details?id=com.todo1.mobile), Bancolombia is the biggest bank from Colombia, after that i went to develop an application Bankity (https://play.google.com/store/apps/details?id=com.bankity) is a expenses manager.
+        \n\n
+Finally I got the opportunity to develop video games, thanks to Timba, for this reason is why I joined this world and started working on my dream.</string>
+</resources>
