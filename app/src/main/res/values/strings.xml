@@ -9,4 +9,6 @@
 \nI made a bank application called Bancolombia app (https://play.google.com/store/apps/details?id=com.todo1.mobile), Bancolombia is the biggest bank from Colombia, after that i went to develop an application Bankity (https://play.google.com/store/apps/details?id=com.bankity) is a expenses manager.
         \n\n
 Finally I got the opportunity to develop video games, thanks to Timba, for this reason is why I joined this world and started working on my dream.</string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
 </resources>
